@@ -28,3 +28,7 @@
 ### 객체 지향 설계와 스프링
 
 https://www.quickprogrammingtips.com/spring-boot/history-of-spring-framework-and-spring-boot.html
+
+---
+
+FIFO : First in First out
